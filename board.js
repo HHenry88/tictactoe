@@ -1,1 +1,1 @@
-module.exports = [Array(3), Array(3), Array(3)];
+module.exports = [[ , , ], [ , , ], [ , , ]];

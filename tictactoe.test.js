@@ -7,5 +7,5 @@ test('should return an array', () => {
 
 test('should be a board with 3 rows and columns', () => {
   console.log('this be board', board);
-  expect(board).toEqual( [[undefined, undefined, undefined], [undefined, undefined, undefined], [undefined, undefined, undefined]]);
+  expect(board).toEqual([[ , , ], [ , , ], [ , , ]]);
 });
