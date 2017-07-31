@@ -1,3 +1,7 @@
-var board = [Array(3), Array(3), Array(3)];
-
-console.log(board);
+// const board = require('./board');
+//
+// var playTicTacToe() = {
+//   var first = prompt('');
+// }
+//
+// playTicTacToe();
